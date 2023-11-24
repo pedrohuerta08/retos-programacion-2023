@@ -9,7 +9,7 @@ for string in frase:
         frase_new += dic[string]
     else:
         frase_new += string
-print( "".join(frase_new))
+print("".join(frase_new))
 
 
     
